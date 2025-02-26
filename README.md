@@ -1,4 +1,4 @@
-#  Weather App (Python)
+#  Weather App (Java + Spring Boot)
 A simple weather application that fetches real-time weather data using an API.
 
 ##  Overview
@@ -6,7 +6,7 @@ This project is a **Weather App** that allows users to:
 - Get current weather conditions 
 - Fetch temperature, humidity, and wind speed data  
 - Search weather details by city name 
-It is implemented in **Python** and demonstrates API integration and data processing.
+It is implemented in **Java** and demonstrates API integration and data processing.
 
 ---
 
@@ -19,7 +19,7 @@ It is implemented in **Python** and demonstrates API integration and data proces
 ---
 
 ##  Technologies Used
-- **Programming Language:** Python   
+- **Programming Language:** Java   
 - **API Integration:** OpenWeatherMap API  
 - **Data Processing:** JSON Parsing  
 - **User Interface:** Console-based (can be extended to GUI)  
