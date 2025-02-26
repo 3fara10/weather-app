@@ -17,10 +17,3 @@ This is a web-based weather application built with **Java, Spring Boot, and Open
 - **Data Processing:** JSON Parsing  
 - **HTTP Client:** RestTemplate  
 
-## Setup & Installation  
-
-### Prerequisites  
-- Java 11 or later installed  
-- Maven installed  
-- OpenWeatherMap API key (get it from [OpenWeather](https://openweathermap.org/api))  
-
