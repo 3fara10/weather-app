@@ -1,27 +1,26 @@
-#  Weather App (Java + Spring Boot)
-A simple weather application that fetches real-time weather data using an API.
+# Weather App (Java + Spring Boot + API integration)
 
-##  Overview
-This project is a **Weather App** that allows users to:
-- Get current weather conditions 
-- Fetch temperature, humidity, and wind speed data  
-- Search weather details by city name 
-It is implemented in **Java** and demonstrates API integration and data processing.
+## Overview  
+This is a web-based weather application built with **Java, Spring Boot, and OpenWeatherMap API**. The application allows users to search for real-time weather data by city and displays **temperature, humidity, and wind speed** using a simple HTML and CSS interface.  
 
----
+## Features  
+- Fetches real-time weather data from OpenWeatherMap API  
+- Displays temperature, humidity, and wind speed dynamically  
+- Allows users to search for weather conditions by city name  
+- Provides a **responsive web interface** built with HTML and CSS  
+- Implements REST API calls to retrieve and display data  
 
-##  Features
-✔️ Fetch real-time weather updates  
-✔️ Display temperature, humidity, and wind speed  
-✔️ Search weather by city  
-✔️ Simple and user-friendly interface  
-
----
-
-##  Technologies Used
-- **Programming Language:** Java   
+## Technologies Used  
+- **Backend:** Java, Spring Boot  
+- **Frontend:** HTML, CSS  
 - **API Integration:** OpenWeatherMap API  
 - **Data Processing:** JSON Parsing  
-- **User Interface:** Console-based (can be extended to GUI)  
+- **HTTP Client:** RestTemplate  
 
+## Setup & Installation  
+
+### Prerequisites  
+- Java 11 or later installed  
+- Maven installed  
+- OpenWeatherMap API key (get it from [OpenWeather](https://openweathermap.org/api))  
 
